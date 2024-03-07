@@ -11,4 +11,6 @@
 
 # GET http://localhost:8080/board
 
-GET http://localhost:8080
+GET http://localhost:8080/board
+
+DELETE http://localhost:8080/board
