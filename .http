@@ -1,12 +1,14 @@
 # GET http://localhost:8080/board
 # GET http://localhost:8080/board/1
 
-PUT http://localhost:8080/board/1
-content-type: application/json
+# PUT http://localhost:8080/board/1
+# content-type: application/json
 
-{
-  "title": "lsj020",
-  "content": "hih"
-}
+# {
+#   "title": "lsj020",
+#   "content": "hih"
+# }
 
 # GET http://localhost:8080/board
+
+GET http://localhost:8080
