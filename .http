@@ -1,0 +1,18 @@
+# GET http://localhost:8080/board
+# GET http://localhost:8080/board/1
+
+POST http://localhost:8080/board
+content-type: application/json
+
+{
+  "name": "lsj020202222",
+  "content": "hihiihhihii"
+}
+
+PUT http://localhost:8080/board/2
+content-type: application/json
+
+{
+  "name": "lsj0202",
+}
+
